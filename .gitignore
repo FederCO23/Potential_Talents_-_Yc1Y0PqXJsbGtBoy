@@ -9,8 +9,11 @@
 !/sup_imgs/
 !/sup_imgs/**
 
+!/outputs/
+!/outputs/**
+
 !Potential_Talents_part1.ipynb
 !Potential_Talents_part2.ipynb
 !Potential_Talents_part2b.ipynb
 !Potential_Talents_part3.ipynb
-
+!Potential_Talents_part4.ipynb
