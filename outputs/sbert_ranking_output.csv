@@ -1,0 +1,42 @@
+query,score,job_titles
+data scientist,0.5958298444747925,Information Systems Specialist and Programmer with a love for data and organization.
+data scientist,0.49461913108825684,Human Resources Professional
+data scientist,0.4565883278846741,Junior MES Engineer| Information Systems
+data scientist,0.45035314559936523,Aspiring Human Resources Specialist
+data scientist,0.44907957315444946,Human Resources professional for the world leader in GIS software
+data scientist,0.44123387336730957,HR Senior Specialist
+data scientist,0.43299663066864014,"Human Resources Generalist at ScottMadden, Inc."
+data scientist,0.4158499538898468,Liberal Arts Major. Aspiring Human Resources Analyst.
+data scientist,0.4097099006175995,Student
+data scientist,0.40282389521598816,Human Resources Specialist at Luxottica
+machine learning engineer,0.49524736404418945,Junior MES Engineer| Information Systems
+machine learning engineer,0.42950865626335144,Information Systems Specialist and Programmer with a love for data and organization.
+machine learning engineer,0.4196493625640869,Human Resources professional for the world leader in GIS software
+machine learning engineer,0.39435404539108276,Human Resources Professional
+machine learning engineer,0.38238009810447693,Aspiring Human Resources Specialist
+machine learning engineer,0.3776254951953888,Human Resources Generalist at Loparex
+machine learning engineer,0.371654212474823,Director Human Resources  at EY
+machine learning engineer,0.3584781885147095,Human Resources Generalist at Schwan's
+machine learning engineer,0.35784050822257996,Human Resources Management Major
+machine learning engineer,0.347359836101532,HR Senior Specialist
+backend developer,0.3922748565673828,Human Resources professional for the world leader in GIS software
+backend developer,0.39134934544563293,Human Resources Professional
+backend developer,0.38339927792549133,Junior MES Engineer| Information Systems
+backend developer,0.37392666935920715,HR Senior Specialist
+backend developer,0.3719833791255951,Information Systems Specialist and Programmer with a love for data and organization.
+backend developer,0.3623657524585724,Aspiring Human Resources Specialist
+backend developer,0.33211949467658997,Human Resources Specialist at Luxottica
+backend developer,0.3318808972835541,Human Resources Generalist at Loparex
+backend developer,0.3212803304195404,"Human Resources Generalist at ScottMadden, Inc."
+backend developer,0.31551095843315125,Senior Human Resources Business Partner at Heil Environmental
+product manager,0.5233423113822937,"Student at Indiana University Kokomo - Business Management - 
+Retail Manager at Delphi Hardware and Paint"
+product manager,0.4746200144290924,"Human Resources Generalist at ScottMadden, Inc."
+product manager,0.4401397705078125,Human Resources Generalist at Schwan's
+product manager,0.4371747672557831,HR Manager at Endemol Shine North America
+product manager,0.4370271563529968,Director Human Resources  at EY
+product manager,0.43532150983810425,Human Resources Professional
+product manager,0.4227902293205261,Director Of Administration at Excellence Logging
+product manager,0.42123478651046753,RRP Brand Portfolio Executive at JTI (Japan Tobacco International)
+product manager,0.4209793508052826,Senior Human Resources Business Partner at Heil Environmental
+product manager,0.40072324872016907,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
