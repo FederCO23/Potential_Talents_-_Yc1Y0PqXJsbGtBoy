@@ -1,41 +1,41 @@
-,query,score,job_titles
-0,data scientist,100,Student at Humber College and Aspiring Human Resources Generalist
-1,data scientist,100,Advisory Board Member at Celal Bayar University
-2,data scientist,100,Aspiring Human Resources Professional
-3,data scientist,90,Aspiring Human Resources Specialist
-4,data scientist,89,Student at Humber College and Aspiring Human Resources Generalist
-5,data scientist,74,Aspiring Human Resources Professional
-6,data scientist,72,Native English Teacher at EPIK (English Program in Korea)
-7,data scientist,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
-8,data scientist,70,HR Senior Specialist
-9,data scientist,69,Student at Chapman University
-10,machine learning engineer,100,Student at Humber College and Aspiring Human Resources Generalist
-11,machine learning engineer,100,Advisory Board Member at Celal Bayar University
-12,machine learning engineer,100,Aspiring Human Resources Professional
-13,machine learning engineer,90,Aspiring Human Resources Specialist
-14,machine learning engineer,89,Student at Humber College and Aspiring Human Resources Generalist
-15,machine learning engineer,74,Aspiring Human Resources Professional
-16,machine learning engineer,72,Native English Teacher at EPIK (English Program in Korea)
-17,machine learning engineer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
-18,machine learning engineer,70,HR Senior Specialist
-19,machine learning engineer,69,Student at Chapman University
-20,backend developer,100,Advisory Board Member at Celal Bayar University
-21,backend developer,75,Aspiring Human Resources Specialist
-22,backend developer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
-23,backend developer,70,Aspiring Human Resources Professional
-24,backend developer,70,People Development Coordinator at Ryan
-25,backend developer,70,Native English Teacher at EPIK (English Program in Korea)
-26,backend developer,70,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-27,backend developer,70,Seeking Human Resources HRIS and Generalist Positions
-28,backend developer,70,Native English Teacher at EPIK (English Program in Korea)
-29,backend developer,70,People Development Coordinator at Ryan
-30,product manager,100,Student at Humber College and Aspiring Human Resources Generalist
-31,product manager,100,Advisory Board Member at Celal Bayar University
-32,product manager,100,Aspiring Human Resources Professional
-33,product manager,90,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
-34,product manager,90,Aspiring Human Resources Specialist
-35,product manager,90,Aspiring Human Resources Professional
-36,product manager,89,Student at Humber College and Aspiring Human Resources Generalist
-37,product manager,70,HR Senior Specialist
-38,product manager,69,Student at Chapman University
-39,product manager,41,Native English Teacher at EPIK (English Program in Korea)
+query,score,job_titles
+data scientist,100,Student at Humber College and Aspiring Human Resources Generalist
+data scientist,100,Advisory Board Member at Celal Bayar University
+data scientist,100,Aspiring Human Resources Professional
+data scientist,90,Aspiring Human Resources Specialist
+data scientist,89,Student at Humber College and Aspiring Human Resources Generalist
+data scientist,74,Aspiring Human Resources Professional
+data scientist,72,Native English Teacher at EPIK (English Program in Korea)
+data scientist,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+data scientist,70,HR Senior Specialist
+data scientist,69,Student at Chapman University
+machine learning engineer,100,Student at Humber College and Aspiring Human Resources Generalist
+machine learning engineer,100,Advisory Board Member at Celal Bayar University
+machine learning engineer,100,Aspiring Human Resources Professional
+machine learning engineer,90,Aspiring Human Resources Specialist
+machine learning engineer,89,Student at Humber College and Aspiring Human Resources Generalist
+machine learning engineer,74,Aspiring Human Resources Professional
+machine learning engineer,72,Native English Teacher at EPIK (English Program in Korea)
+machine learning engineer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+machine learning engineer,70,HR Senior Specialist
+machine learning engineer,69,Student at Chapman University
+backend developer,100,Advisory Board Member at Celal Bayar University
+backend developer,75,Aspiring Human Resources Specialist
+backend developer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+backend developer,70,Aspiring Human Resources Professional
+backend developer,70,People Development Coordinator at Ryan
+backend developer,70,Native English Teacher at EPIK (English Program in Korea)
+backend developer,70,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
+backend developer,70,Seeking Human Resources HRIS and Generalist Positions
+backend developer,70,Native English Teacher at EPIK (English Program in Korea)
+backend developer,70,People Development Coordinator at Ryan
+product manager,100,Student at Humber College and Aspiring Human Resources Generalist
+product manager,100,Advisory Board Member at Celal Bayar University
+product manager,100,Aspiring Human Resources Professional
+product manager,90,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+product manager,90,Aspiring Human Resources Specialist
+product manager,90,Aspiring Human Resources Professional
+product manager,89,Student at Humber College and Aspiring Human Resources Generalist
+product manager,70,HR Senior Specialist
+product manager,69,Student at Chapman University
+product manager,41,Native English Teacher at EPIK (English Program in Korea)
