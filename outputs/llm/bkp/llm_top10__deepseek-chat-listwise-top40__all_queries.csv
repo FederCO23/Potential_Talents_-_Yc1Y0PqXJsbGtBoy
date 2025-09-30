@@ -1,0 +1,42 @@
+query,score,job_titles
+data scientist,15,Junior MES Engineer| Information Systems
+data scientist,10,Information Systems Specialist and Programmer with a love for data and organization.
+data scientist,5,Human Resources Professional
+data scientist,5,Aspiring Human Resources Specialist
+data scientist,5,Human Resources professional for the world leader in GIS software
+data scientist,5,HR Senior Specialist
+data scientist,5,"Human Resources Generalist at ScottMadden, Inc."
+data scientist,5,Liberal Arts Major. Aspiring Human Resources Analyst.
+data scientist,5,Human Resources Specialist at Luxottica
+data scientist,0,Student
+machine learning engineer,85,Junior MES Engineer| Information Systems
+machine learning engineer,45,Information Systems Specialist and Programmer with a love for data and organization.
+machine learning engineer,15,HR Senior Specialist
+machine learning engineer,15,Director Human Resources  at EY
+machine learning engineer,10,Human Resources Generalist at Loparex
+machine learning engineer,10,Aspiring Human Resources Specialist
+machine learning engineer,10,Human Resources Generalist at Schwan's
+machine learning engineer,10,Human Resources Management Major
+machine learning engineer,5,Human Resources professional for the world leader in GIS software
+machine learning engineer,5,Human Resources Professional
+backend developer,40,Information Systems Specialist and Programmer with a love for data and organization.
+backend developer,35,Junior MES Engineer| Information Systems
+backend developer,25,Senior Human Resources Business Partner at Heil Environmental
+backend developer,15,Human Resources Professional
+backend developer,15,Aspiring Human Resources Specialist
+backend developer,15,HR Senior Specialist
+backend developer,15,Human Resources Generalist at Loparex
+backend developer,15,Human Resources Specialist at Luxottica
+backend developer,15,"Human Resources Generalist at ScottMadden, Inc."
+backend developer,10,Human Resources professional for the world leader in GIS software
+product manager,90,"Student at Indiana University Kokomo - Business Management - 
+Retail Manager at Delphi Hardware and Paint"
+product manager,60,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
+product manager,50,Senior Human Resources Business Partner at Heil Environmental
+product manager,40,HR Manager at Endemol Shine North America
+product manager,40,Director Human Resources  at EY
+product manager,30,"Human Resources Generalist at ScottMadden, Inc."
+product manager,30,Human Resources Professional
+product manager,30,Human Resources Generalist at Schwan's
+product manager,20,Director Of Administration at Excellence Logging
+product manager,10,RRP Brand Portfolio Executive at JTI (Japan Tobacco International)

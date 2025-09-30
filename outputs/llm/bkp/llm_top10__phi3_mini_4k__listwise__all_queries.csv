@@ -1,0 +1,41 @@
+query,score,job_titles
+data scientist,100,Student at Humber College and Aspiring Human Resources Generalist
+data scientist,100,Advisory Board Member at Celal Bayar University
+data scientist,100,Aspiring Human Resources Professional
+data scientist,90,Aspiring Human Resources Specialist
+data scientist,89,Student at Humber College and Aspiring Human Resources Generalist
+data scientist,74,Aspiring Human Resources Professional
+data scientist,72,Native English Teacher at EPIK (English Program in Korea)
+data scientist,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+data scientist,70,HR Senior Specialist
+data scientist,69,Student at Chapman University
+machine learning engineer,100,Student at Humber College and Aspiring Human Resources Generalist
+machine learning engineer,100,Advisory Board Member at Celal Bayar University
+machine learning engineer,100,Aspiring Human Resources Professional
+machine learning engineer,90,Aspiring Human Resources Specialist
+machine learning engineer,89,Student at Humber College and Aspiring Human Resources Generalist
+machine learning engineer,74,Aspiring Human Resources Professional
+machine learning engineer,72,Native English Teacher at EPIK (English Program in Korea)
+machine learning engineer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+machine learning engineer,70,HR Senior Specialist
+machine learning engineer,69,Student at Chapman University
+backend developer,100,Advisory Board Member at Celal Bayar University
+backend developer,75,Aspiring Human Resources Specialist
+backend developer,70,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+backend developer,70,Aspiring Human Resources Professional
+backend developer,70,People Development Coordinator at Ryan
+backend developer,70,Native English Teacher at EPIK (English Program in Korea)
+backend developer,70,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
+backend developer,70,Seeking Human Resources HRIS and Generalist Positions
+backend developer,70,Native English Teacher at EPIK (English Program in Korea)
+backend developer,70,People Development Coordinator at Ryan
+product manager,100,Student at Humber College and Aspiring Human Resources Generalist
+product manager,100,Advisory Board Member at Celal Bayar University
+product manager,100,Aspiring Human Resources Professional
+product manager,90,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
+product manager,90,Aspiring Human Resources Specialist
+product manager,90,Aspiring Human Resources Professional
+product manager,89,Student at Humber College and Aspiring Human Resources Generalist
+product manager,70,HR Senior Specialist
+product manager,69,Student at Chapman University
+product manager,41,Native English Teacher at EPIK (English Program in Korea)
