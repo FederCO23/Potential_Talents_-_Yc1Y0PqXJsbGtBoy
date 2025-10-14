@@ -1,48 +1,41 @@
-query,score,job_titles
-data scientist,70,Business Intelligence and Analytics at Travelers
-data scientist,39,Junior MES Engineer| Information Systems
-data scientist,30,Information Systems Specialist and Programmer with a love for data and organization.
-data scientist,30,"Human Resources|
-Conflict Management|
-Policies & Procedures|Talent Management|Benefits & Compensation"
-data scientist,10,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional
-data scientist,10,Aspiring Human Resources Professional
-data scientist,10,People Development Coordinator at Ryan
-data scientist,10,Aspiring Human Resources Specialist
-data scientist,10,Student at Humber College and Aspiring Human Resources Generalist
-data scientist,10,People Development Coordinator at Ryan
-machine learning engineer,40,Junior MES Engineer| Information Systems
-machine learning engineer,39,Business Intelligence and Analytics at Travelers
-machine learning engineer,30,Information Systems Specialist and Programmer with a love for data and organization.
-machine learning engineer,10,Seeking Human Resources HRIS and Generalist Positions
-machine learning engineer,10,Student at Chapman University
-machine learning engineer,10,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-machine learning engineer,10,Student at Chapman University
-machine learning engineer,10,Seeking Human Resources HRIS and Generalist Positions
-machine learning engineer,10,Student at Chapman University
-machine learning engineer,10,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-backend developer,40,Information Systems Specialist and Programmer with a love for data and organization.
-backend developer,39,Junior MES Engineer| Information Systems
-backend developer,39,Business Intelligence and Analytics at Travelers
-backend developer,30,"Human Resources|
-Conflict Management|
-Policies & Procedures|Talent Management|Benefits & Compensation"
-backend developer,10,People Development Coordinator at Ryan
-backend developer,10,HR Senior Specialist
-backend developer,10,Student at Humber College and Aspiring Human Resources Generalist
-backend developer,10,Aspiring Human Resources Specialist
-backend developer,10,People Development Coordinator at Ryan
-backend developer,10,Aspiring Human Resources Specialist
-product manager,70,RRP Brand Portfolio Executive at JTI (Japan Tobacco International)
-product manager,70,Business Intelligence and Analytics at Travelers
-product manager,60,"Human Resources|
-Conflict Management|
-Policies & Procedures|Talent Management|Benefits & Compensation"
-product manager,40,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-product manager,40,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-product manager,40,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-product manager,40,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR"
-product manager,40,"Student at Indiana University Kokomo - Business Management - 
-Retail Manager at Delphi Hardware and Paint"
-product manager,39,Experienced Retail Manager and aspiring Human Resources Professional
-product manager,39,Director Of Administration at Excellence Logging
+query,job_titles,score
+data scientist,data scientist,1.0
+data scientist,Data Scientist Machine Learning Scientist,0.85
+data scientist,data analyst data scientist,0.85
+data scientist,data scientist analyst,0.85
+data scientist,mathematician data scientist,0.85
+data scientist,web development data analyst data scientist,0.85
+data scientist,Data Scientist Machine Learning Engineer,0.83
+data scientist,data scientist data analyst statistician,0.83
+data scientist,data scientist ms data science,0.83
+data scientist,computer scientist,0.81
+machine learning engineer,machine learning engineer,0.95
+machine learning engineer,Data Scientist Machine Learning Engineer,0.85
+machine learning engineer,data scientist data analyst machine learning engineer,0.85
+machine learning engineer,machine learning engineer 2,0.85
+machine learning engineer,Data Scientist Machine Learning Scientist,0.83
+machine learning engineer,Machine Learning Engineer Data Scientist MLOps,0.83
+machine learning engineer,Machine Learning Engineer Google Certified Associate Cloud Engineer M-Tech Silver Medalist in Artificial Intelligence Data Science.,0.83
+machine learning engineer,data scientist machine learning engineer ai engineer skilled in predictive analytics time series analysis and ai agent development,0.83
+machine learning engineer,machine learning engineer genworth masters in computer sciences,0.83
+machine learning engineer,machine learning operations engineer at spyglaz,0.83
+backend developer,full-stack developer,0.75
+backend developer,full-stack software developer,0.75
+backend developer,software developer,0.75
+backend developer,MLOps Machine Learning Backend Dev FastAPI Data Scientist Data Analyst,0.72
+backend developer,full stack developer specializing in aiml and cloud computing,0.72
+backend developer,data scientist python backend developer software developer at iron gate auctions,0.7
+backend developer,Data Software Engineer,0.64
+backend developer,Software Engineer,0.64
+backend developer,full stack developer m.s. computer science at georgia institute of technology b.s. computer science at university of akron,0.64
+backend developer,software engineer full stack developer javascript typescript node react angular java spring boot hibernate mysqlmongodb aws,0.64
+product manager,performance marketing manager,0.72
+product manager,senior data growth product manager cdp management product analytics mcit penn,0.72
+product manager,production team lead at microchip technology inc. leading production and training with data analytics skills,0.68
+product manager,aspiring product manager information systems graduate with a strong technical background passionate about driving innovation and solving complex problems,0.64
+product manager,business intelligence leader analyst,0.64
+product manager,manager product analyst data science masters statistical analysis,0.64
+product manager,associate product manager paycom ibm data science specialization,0.6
+product manager,program manager,0.6
+product manager,technology consultant,0.6
+product manager,associate manager,0.46
