@@ -85,7 +85,7 @@ Query
   Generates chat-formatted JSONL (train/val/test) pairs with numeric similarity labels, preparing data for model fine-tuning.
 - **[Part 5t - LoRA Fine-Tuning (training)](./Potential_Talents_part5t.ipynb)**    
    Fine-tunes meta-llama/Llama-3.2-3B-Instruct using LoRA adapters to predict similarity scores (0–100) for query-title pairs on a single GPU.
-- **[Part 6 - RAG + FAISS Retrieval](./Potential_Talents_part1.ipynb)**    
+- **[Part 6 - RAG + FAISS Retrieval](./Potential_Talents_part6.ipynb)**    
   Implements a centroid-based FAISS index (IVF) for fast ANN search, integrates an API-based LLM for re-ranking, and evaluates recall, nDCG, and latency.
 
 
