@@ -21,13 +21,13 @@ This work involved a lot of different techniques in NLP, from simpler approaches
 
 - **Full retrieval ladder:** `TF-IDF → Word2Vec (SGNS) → SBERT + FAISS → LLM re-ranking`  
 - **Custom mini-Word2Vec** embedding trained from scratch on domain text  
-- **Local LLM inference** on GPU: <img src="./sup_imgs/phi-3-mini.png" width="150" style="vertical-align: middle;"/> <img src="./sup_imgs/gemma2.webp" width="170" style="vertical-align: middle;"/> <img src="./sup_imgs/Qwen_Logo.svg.png" width="140" style="vertical-align: middle;"/> 
+- **Local LLM inference** on GPU: Phi-3-mini (Microsoft), Gemma2 (Google), Qwen2.5 (Qwen), LLaMA3 (Meta)
+  
+  <img src="./sup_imgs/phi-3-mini.png" width="150" style="vertical-align: middle;"/> <img src="./sup_imgs/gemma2.webp" width="170" style="vertical-align: middle;"/> <img src="./sup_imgs/Qwen_Logo.svg.png" width="140" style="vertical-align: middle;"/> 
   <img src="./sup_imgs/LLaMA3.png" alt="DeepSeek Logo" width="140" style="vertical-align: middle;"/>
-- **External API LLMs:** 
-  <img src="./sup_imgs/moonshot_AI.png" width="130" style="vertical-align: middle;"/> Kimi K2, 
-  <img src="./sup_imgs/DeepSeek_logo.svg.png" alt="DeepSeek Logo" width="160" style="vertical-align: middle;"/> deepseek-chat,
-  <img src="./sup_imgs/Grok-feb-2025-logo.svg.png" width="140" style="vertical-align: middle;"/> Grok 4 fast (xAI),
-  <img src="./sup_imgs/ChatGPT-Logo.svg.webp" width="50" style="vertical-align: middle;"/> gpt-4o
+- **External API LLMs:** Kimi K2 (Moonshot AI), deepseek-chat (deepseek), Grok 4 (xAI), gpt-4o (OpenAI)
+  
+  <img src="./sup_imgs/moonshot_AI.png" width="170" style="vertical-align: middle;"/> <img src="./sup_imgs/DeepSeek_logo.svg.png" alt="DeepSeek Logo" width="170" style="vertical-align: middle;"/> <img src="./sup_imgs/Grok-feb-2025-logo.svg.png" width="140" style="vertical-align: middle;"/><img src="./sup_imgs/XAI_logo.png" width="70" style="vertical-align: middle;"/> <img src="./sup_imgs/OpenAI_Logo.svg.png" width="180" style="vertical-align: middle;"/>
 - **Instruction Fine-Tuned LLaMA 3.2 3B** for candidate scoring  
 - **RAG with FAISS (IVF index)** centroid-based ANN tuned (`nlist`, `nprobe`) for **high recall** and **3–8× speedup** over exact search  
 - **Comprehensive evaluation:** Recall@k, nDCG@k, and latency, plus qualitative checks on Data Science, ML Engineering, Backend, and PM queries  
