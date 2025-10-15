@@ -6,11 +6,11 @@ Human Resources - Talent sourcing
 ### Context: 
 In the talent sourcing industry, connecting the right candidate to the right opportunity is a complex challenge. Recruiters must not only understand a client’s technical requirements but also recognize what makes a candidate truly stand out for a given role. Traditional keyword-based search often fails to capture the nuances of job titles, skills, and role similarities,  especially in the fast-evolving technology sector.
 
-## Objective:
+### Objective:
 Build a robust, intelligent retrieval system capable of identifying and ranking semantically similar job titles and candidate profiles. 
 Exploring different approaches, from most elementary like using TF-IDF to more evolved using SBERT, LLM Fine Tuning, RAG with FAISS indexing and consulting big LLM through API.
 
-## What we include in this project? 
+### What we include in this project? 
 This work involved a lot of different techniques in NLP, from simpler approaches to more evolved. Applying different combination of techniques, metrics, solution design and two final efficient approaches prepared for implementation: 
   - a Fine Tuned LLM based on LLaMA 3.2 3B (covered in the project part 5)
   - a RAG (indexed using FAISS) + a big LLM using API (covered in the project part 6)
