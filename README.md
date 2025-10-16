@@ -16,6 +16,7 @@ Human Resources - Talent sourcing
 
 ### Context: 
 In the talent sourcing industry, connecting the right candidate to the right opportunity is a complex challenge. Recruiters must not only understand a client’s technical requirements but also recognize what makes a candidate truly stand out for a given role. Traditional keyword-based search often fails to capture the nuances of job titles, skills, and role similarities,  especially in the fast-evolving technology sector.
+
 This project was developed as part of **Apziva**, focusing on building data-driven solutions through machine learning and large language models.
 
 ### Objective:
