@@ -1,7 +1,8 @@
+<!--
 # Potential Talents: Retrieval for Candidate Job Titles (NLP)
 
 ---
-
+-->
 </td>
     <td style="text-align: center;">
       <img src="sup_imgs/Potential_Talents.png" alt="Term Deposit Campaign" width="1200">
