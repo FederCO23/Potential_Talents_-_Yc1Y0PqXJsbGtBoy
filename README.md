@@ -168,6 +168,6 @@ Potential_Talents/
 
 If you’d like to explore how semantic retrieval and LLMs can enhance your recruiting or internal mobility workflows, feel free to connect:
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/federicobessi/)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/federico-bessi/)  
 📫 **federico.bessi@gmail.com**
 
