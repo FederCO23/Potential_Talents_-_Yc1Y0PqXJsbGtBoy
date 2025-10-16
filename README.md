@@ -16,6 +16,7 @@ Human Resources - Talent sourcing
 
 ### Context: 
 In the talent sourcing industry, connecting the right candidate to the right opportunity is a complex challenge. Recruiters must not only understand a client’s technical requirements but also recognize what makes a candidate truly stand out for a given role. Traditional keyword-based search often fails to capture the nuances of job titles, skills, and role similarities,  especially in the fast-evolving technology sector.
+This project was developed as part of **Apziva**, focusing on building data-driven solutions through machine learning and large language models.
 
 ### Objective:
 Build a robust, intelligent retrieval system capable of identifying and ranking semantically similar job titles and candidate profiles. 
@@ -141,5 +142,31 @@ Potential_Talents/
 │
 └── sup_imgs/                            # Supplementary images for documentation or reports
 
-
 ```
+
+---
+
+### Business Impact
+
+- **Recruiting efficiency:** the retrieval system shortens candidate discovery cycles by finding the most relevant profiles in seconds, reducing manual screening time and human bias.  
+- **Semantic precision:** by combining **SBERT embeddings**, a **Fine-Tuned LLaMA 3.2-3B**, and **RAG with FAISS**, the model understands contextual nuances between job titles (e.g., *“ML Engineer” ↔ “Data Scientist”*) rather than relying on keyword overlap.  
+- **Scalability:** the FAISS-based retrieval architecture enables **vectorized, GPU-accelerated search**, supporting thousands of candidates while maintaining millisecond latency.  
+- **Business value:** HR and staffing teams can prioritize the best-fit candidates faster, improving talent placement quality and decreasing time-to-hire.
+
+---
+
+### This Project Showcases
+
+- **AI pipeline** for information retrieval, from classical TF-IDF to semantic search, LLM fine-tuning, and Retrieval-Augmented Generation (RAG).  
+- **Hands-on expertise** with Python, Transformers, FAISS, and LoRA fine-tuning on limited hardware (GTX 1080 Ti).  
+- **Applied research mindset:** translating modern NLP techniques into practical HR applications that bridge **AI** and **business impact**.  
+
+---
+
+## Interested in Implementing This?
+
+If you’d like to explore how semantic retrieval and LLMs can enhance your recruiting or internal mobility workflows, feel free to connect:
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/federicobessi/)  
+📫 **federico.bessi@gmail.com**
+
